@@ -1,1 +1,2 @@
 O Contato (id: 25) foi deletado. Data: 28-10-2022 19:00:28
+O Contato (id: 24) foi deletado. Data: 28-10-2022 19:43:00
